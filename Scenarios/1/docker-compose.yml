@@ -1,0 +1,52 @@
+version: '3'
+services:
+  client:
+    build: ../../dt-client-bytes
+    depends_on:
+      - mqtt-broker
+      - twin
+    environment:
+      - RUST_LOG=info
+      - MQTT_BROKER_ADDRESS=mqtt-broker
+      - MQTT_BROKER_PORT=1883
+      - MQTT_CLIENT_QOS=1
+      - MQTT_CLIENT_BUFFER_BYTE_SIZE=8
+      - MQTT_CLIENT_MESSAGES_TO_SEND=100
+      - MQTT_CLIENT_MESSAGE_DELAY_MS=50
+    networks:
+      - default
+  twin:
+    build: ../../dt-instance
+    depends_on:
+      - mqtt-broker
+    environment:
+      - MQTT_BROKER_ADDRESS=mqtt-broker
+      - MQTT_BROKER_PORT=1883
+      - MQTT_INSTANCE_QOS=1
+      - RUST_LOG=info
+      - DB_ADDRESS=scylla-db:9042
+      - TWIN_INSTANCE=38162cb0-e585-43d7-b55d-5c240b2bfb7c
+    networks:
+      - default
+    restart: always
+  mqtt-broker:
+    image: "opendigitaltwin/mosquitto:latest"
+    container_name: mqtt-broker
+    ports:
+      - "1883:1883"
+    networks:
+      - default
+    volumes:
+      - ./../mosquitto.conf:/mosquitto/config/mosquitto.conf
+    restart: always
+  scylla-db:
+    image: scylladb/scylla
+    container_name: scylla-db
+    expose: [9042]
+    networks:
+      - default
+    volumes:
+      - ./../../dt-instance/shared/db:/db
+      - ./../../dt-instance/shared/dbinit.sh:/dbinit.sh
+networks:
+  default:

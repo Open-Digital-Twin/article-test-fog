@@ -1,0 +1,6 @@
+[submodule "dt-instance"]
+	path = dt-instance
+	url = git@github.com:Open-Digital-Twin/dt-instance.git
+[submodule "dt-client-bytes"]
+	path = dt-client-bytes
+	url = git@github.com:Open-Digital-Twin/dt-client-bytes
