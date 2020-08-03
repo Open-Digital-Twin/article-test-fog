@@ -46,5 +46,9 @@ services:
     volumes:
       - ./../../dt-instance/shared/db:/db
       - ./../../dt-instance/shared/dbinit.sh:/dbinit.sh
+    deploy:
+      placement:
+        constraints:
+          - node.role == manager
 networks:
   default:
