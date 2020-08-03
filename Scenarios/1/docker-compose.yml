@@ -39,10 +39,10 @@ services:
       - ./mosquitto/log:/mosquitto/log
       - ./mosquitto/data:/mosquitto/data
     restart: always
-  deploy:
-    placement:
-      constraints:
-        - node.role == manager
+    deploy:
+      placement:
+        constraints:
+          - node.role == manager
   scylla-db:
     image: scylladb/scylla
     networks:
