@@ -39,6 +39,10 @@ services:
       - ./mosquitto/log:/mosquitto/log
       - ./mosquitto/data:/mosquitto/data
     restart: always
+  deploy:
+    placement:
+      constraints:
+        - node.role == manager
   scylla-db:
     image: scylladb/scylla
     networks:
@@ -46,9 +50,5 @@ services:
     volumes:
       - ./../../dt-instance/shared/db:/db
       - ./../../dt-instance/shared/dbinit.sh:/dbinit.sh
-    deploy:
-      placement:
-        constraints:
-          - node.role == manager
 networks:
   default:
