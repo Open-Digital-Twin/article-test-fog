@@ -48,7 +48,7 @@ services:
     networks:
       - default
     volumes:
-      - ./../../dt-instance/shared/db:/db
-      - ./../../dt-instance/shared/dbinit.sh:/dbinit.sh
+      - ./../../../../dt-instance/shared/db:/db
+      - ./../../../../dt-instance/shared/dbinit.sh:/dbinit.sh
 networks:
   default:
