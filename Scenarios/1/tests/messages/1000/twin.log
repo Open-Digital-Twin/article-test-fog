@@ -1,0 +1,68 @@
+{"log":"[2020-08-05T23:32:40Z INFO  dt_instance] Current Twin: 38162cb0-e585-43d7-b55d-5c240b2bfb7c\n","stream":"stderr","time":"2020-08-05T23:32:40.757770602Z"}
+{"log":"[2020-08-05T23:32:40Z INFO  dt_instance] Connecting to broker at mqtt-broker:1883\n","stream":"stderr","time":"2020-08-05T23:32:40.757813473Z"}
+{"log":"[2020-08-05T23:32:40Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+\n","stream":"stderr","time":"2020-08-05T23:32:40.764156445Z"}
+{"log":"[2020-08-05T23:32:40Z INFO  dt_instance] SubAck { pkid: 1, return_codes: [Success(AtLeastOnce)] }\n","stream":"stderr","time":"2020-08-05T23:32:40.867311447Z"}
+{"log":"[2020-08-05T23:33:10Z ERROR dt_instance] Unhandled incoming.\n","stream":"stderr","time":"2020-08-05T23:33:10.810374062Z"}
+{"log":"[2020-08-05T23:33:15Z INFO  dt_instance] d0a71d84-b80f-4558-beac-8887750652e3 \"0 wGXZAm\"\n","stream":"stderr","time":"2020-08-05T23:33:15.257425175Z"}
+{"log":"thread 'main' panicked at 'Should have set keyspace.', src/common/db/mod.rs:35:3\n","stream":"stderr","time":"2020-08-05T23:33:15.262665932Z"}
+{"log":"note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace\n","stream":"stderr","time":"2020-08-05T23:33:15.262712145Z"}
+{"log":"[2020-08-05T23:33:18Z INFO  dt_instance] Current Twin: 38162cb0-e585-43d7-b55d-5c240b2bfb7c\n","stream":"stderr","time":"2020-08-05T23:33:18.420188821Z"}
+{"log":"[2020-08-05T23:33:18Z INFO  dt_instance] Connecting to broker at mqtt-broker:1883\n","stream":"stderr","time":"2020-08-05T23:33:18.420215539Z"}
+{"log":"[2020-08-05T23:33:18Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+\n","stream":"stderr","time":"2020-08-05T23:33:18.423474168Z"}
+{"log":"[2020-08-05T23:33:18Z INFO  dt_instance] SubAck { pkid: 1, return_codes: [Success(AtLeastOnce)] }\n","stream":"stderr","time":"2020-08-05T23:33:18.52576073Z"}
+{"log":"[2020-08-05T23:33:18Z INFO  dt_instance] d0a71d84-b80f-4558-beac-8887750652e3 \"64 4IVRe\"\n","stream":"stderr","time":"2020-08-05T23:33:18.577600139Z"}
+{"log":"thread 'main' panicked at 'Should have set keyspace.', src/common/db/mod.rs:35:3\n","stream":"stderr","time":"2020-08-05T23:33:18.59000826Z"}
+{"log":"note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace\n","stream":"stderr","time":"2020-08-05T23:33:18.590158853Z"}
+{"log":"[2020-08-05T23:33:21Z INFO  dt_instance] Current Twin: 38162cb0-e585-43d7-b55d-5c240b2bfb7c\n","stream":"stderr","time":"2020-08-05T23:33:21.156653081Z"}
+{"log":"[2020-08-05T23:33:21Z INFO  dt_instance] Connecting to broker at mqtt-broker:1883\n","stream":"stderr","time":"2020-08-05T23:33:21.156692238Z"}
+{"log":"[2020-08-05T23:33:21Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+\n","stream":"stderr","time":"2020-08-05T23:33:21.159004053Z"}
+{"log":"[2020-08-05T23:33:21Z INFO  dt_instance] SubAck { pkid: 1, return_codes: [Success(AtLeastOnce)] }\n","stream":"stderr","time":"2020-08-05T23:33:21.263060204Z"}
+{"log":"[2020-08-05T23:33:21Z INFO  dt_instance] d0a71d84-b80f-4558-beac-8887750652e3 \"117 8p0G\"\n","stream":"stderr","time":"2020-08-05T23:33:21.313937581Z"}
+{"log":"thread 'main' panicked at 'Should have set keyspace.', src/common/db/mod.rs:35:3\n","stream":"stderr","time":"2020-08-05T23:33:21.326344251Z"}
+{"log":"note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace\n","stream":"stderr","time":"2020-08-05T23:33:21.326383728Z"}
+{"log":"[2020-08-05T23:33:23Z INFO  dt_instance] Current Twin: 38162cb0-e585-43d7-b55d-5c240b2bfb7c\n","stream":"stderr","time":"2020-08-05T23:33:23.946478788Z"}
+{"log":"[2020-08-05T23:33:23Z INFO  dt_instance] Connecting to broker at mqtt-broker:1883\n","stream":"stderr","time":"2020-08-05T23:33:23.946518273Z"}
+{"log":"[2020-08-05T23:33:23Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+\n","stream":"stderr","time":"2020-08-05T23:33:23.949175295Z"}
+{"log":"[2020-08-05T23:33:24Z INFO  dt_instance] SubAck { pkid: 1, return_codes: [Success(AtLeastOnce)] }\n","stream":"stderr","time":"2020-08-05T23:33:24.051668079Z"}
+{"log":"[2020-08-05T23:33:24Z INFO  dt_instance] d0a71d84-b80f-4558-beac-8887750652e3 \"172 Y8kB\"\n","stream":"stderr","time":"2020-08-05T23:33:24.102788963Z"}
+{"log":"thread 'main' panicked at 'Should have set keyspace.', src/common/db/mod.rs:35:3\n","stream":"stderr","time":"2020-08-05T23:33:24.112948605Z"}
+{"log":"note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace\n","stream":"stderr","time":"2020-08-05T23:33:24.112985239Z"}
+{"log":"[2020-08-05T23:33:26Z INFO  dt_instance] Current Twin: 38162cb0-e585-43d7-b55d-5c240b2bfb7c\n","stream":"stderr","time":"2020-08-05T23:33:26.786629874Z"}
+{"log":"[2020-08-05T23:33:26Z INFO  dt_instance] Connecting to broker at mqtt-broker:1883\n","stream":"stderr","time":"2020-08-05T23:33:26.78666864Z"}
+{"log":"[2020-08-05T23:33:26Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+\n","stream":"stderr","time":"2020-08-05T23:33:26.788984297Z"}
+{"log":"[2020-08-05T23:33:26Z INFO  dt_instance] SubAck { pkid: 1, return_codes: [Success(AtLeastOnce)] }\n","stream":"stderr","time":"2020-08-05T23:33:26.89215538Z"}
+{"log":"[2020-08-05T23:33:26Z INFO  dt_instance] d0a71d84-b80f-4558-beac-8887750652e3 \"227 J8n9\"\n","stream":"stderr","time":"2020-08-05T23:33:26.943310453Z"}
+{"log":"thread 'main' panicked at 'Should have set keyspace.', src/common/db/mod.rs:35:3\n","stream":"stderr","time":"2020-08-05T23:33:26.956278521Z"}
+{"log":"note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace\n","stream":"stderr","time":"2020-08-05T23:33:26.956424045Z"}
+{"log":"[2020-08-05T23:33:30Z INFO  dt_instance] Current Twin: 38162cb0-e585-43d7-b55d-5c240b2bfb7c\n","stream":"stderr","time":"2020-08-05T23:33:30.427458438Z"}
+{"log":"[2020-08-05T23:33:30Z INFO  dt_instance] Connecting to broker at mqtt-broker:1883\n","stream":"stderr","time":"2020-08-05T23:33:30.427522898Z"}
+{"log":"[2020-08-05T23:33:30Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+\n","stream":"stderr","time":"2020-08-05T23:33:30.430074099Z"}
+{"log":"[2020-08-05T23:33:30Z INFO  dt_instance] SubAck { pkid: 1, return_codes: [Success(AtLeastOnce)] }\n","stream":"stderr","time":"2020-08-05T23:33:30.533052311Z"}
+{"log":"[2020-08-05T23:33:30Z INFO  dt_instance] d0a71d84-b80f-4558-beac-8887750652e3 \"298 a1Yj\"\n","stream":"stderr","time":"2020-08-05T23:33:30.585592195Z"}
+{"log":"thread 'main' panicked at 'Should have set keyspace.', src/common/db/mod.rs:35:3\n","stream":"stderr","time":"2020-08-05T23:33:30.600423481Z"}
+{"log":"note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace\n","stream":"stderr","time":"2020-08-05T23:33:30.600508146Z"}
+{"log":"[2020-08-05T23:33:35Z INFO  dt_instance] Current Twin: 38162cb0-e585-43d7-b55d-5c240b2bfb7c\n","stream":"stderr","time":"2020-08-05T23:33:35.428971043Z"}
+{"log":"[2020-08-05T23:33:35Z INFO  dt_instance] Connecting to broker at mqtt-broker:1883\n","stream":"stderr","time":"2020-08-05T23:33:35.429009109Z"}
+{"log":"[2020-08-05T23:33:35Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+\n","stream":"stderr","time":"2020-08-05T23:33:35.431619183Z"}
+{"log":"[2020-08-05T23:33:35Z INFO  dt_instance] SubAck { pkid: 1, return_codes: [Success(AtLeastOnce)] }\n","stream":"stderr","time":"2020-08-05T23:33:35.534296192Z"}
+{"log":"[2020-08-05T23:33:35Z INFO  dt_instance] d0a71d84-b80f-4558-beac-8887750652e3 \"396 CErI\"\n","stream":"stderr","time":"2020-08-05T23:33:35.586241504Z"}
+{"log":"thread 'main' panicked at 'Should have set keyspace.', src/common/db/mod.rs:35:3\n","stream":"stderr","time":"2020-08-05T23:33:35.599018662Z"}
+{"log":"note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace\n","stream":"stderr","time":"2020-08-05T23:33:35.599105434Z"}
+{"log":"[2020-08-05T23:33:43Z INFO  dt_instance] Current Twin: 38162cb0-e585-43d7-b55d-5c240b2bfb7c\n","stream":"stderr","time":"2020-08-05T23:33:43.566942116Z"}
+{"log":"[2020-08-05T23:33:43Z INFO  dt_instance] Connecting to broker at mqtt-broker:1883\n","stream":"stderr","time":"2020-08-05T23:33:43.566977028Z"}
+{"log":"[2020-08-05T23:33:43Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+\n","stream":"stderr","time":"2020-08-05T23:33:43.568318946Z"}
+{"log":"[2020-08-05T23:33:43Z INFO  dt_instance] SubAck { pkid: 1, return_codes: [Success(AtLeastOnce)] }\n","stream":"stderr","time":"2020-08-05T23:33:43.671072995Z"}
+{"log":"[2020-08-05T23:33:43Z INFO  dt_instance] d0a71d84-b80f-4558-beac-8887750652e3 \"554 oNup\"\n","stream":"stderr","time":"2020-08-05T23:33:43.722395196Z"}
+{"log":"thread 'main' panicked at 'Should have set keyspace.', src/common/db/mod.rs:35:3\n","stream":"stderr","time":"2020-08-05T23:33:43.737023077Z"}
+{"log":"note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace\n","stream":"stderr","time":"2020-08-05T23:33:43.737048823Z"}
+{"log":"[2020-08-05T23:33:58Z INFO  dt_instance] Current Twin: 38162cb0-e585-43d7-b55d-5c240b2bfb7c\n","stream":"stderr","time":"2020-08-05T23:33:58.14822755Z"}
+{"log":"[2020-08-05T23:33:58Z INFO  dt_instance] Connecting to broker at mqtt-broker:1883\n","stream":"stderr","time":"2020-08-05T23:33:58.148266439Z"}
+{"log":"[2020-08-05T23:33:58Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+\n","stream":"stderr","time":"2020-08-05T23:33:58.149832985Z"}
+{"log":"[2020-08-05T23:33:58Z INFO  dt_instance] SubAck { pkid: 1, return_codes: [Success(AtLeastOnce)] }\n","stream":"stderr","time":"2020-08-05T23:33:58.252279329Z"}
+{"log":"[2020-08-05T23:33:58Z INFO  dt_instance] d0a71d84-b80f-4558-beac-8887750652e3 \"838 xGBK\"\n","stream":"stderr","time":"2020-08-05T23:33:58.303927141Z"}
+{"log":"thread 'main' panicked at 'Should have set keyspace.', src/common/db/mod.rs:35:3\n","stream":"stderr","time":"2020-08-05T23:33:58.317616701Z"}
+{"log":"note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace\n","stream":"stderr","time":"2020-08-05T23:33:58.317764363Z"}
+{"log":"[2020-08-05T23:34:25Z INFO  dt_instance] Current Twin: 38162cb0-e585-43d7-b55d-5c240b2bfb7c\n","stream":"stderr","time":"2020-08-05T23:34:25.581978481Z"}
+{"log":"[2020-08-05T23:34:25Z INFO  dt_instance] Connecting to broker at mqtt-broker:1883\n","stream":"stderr","time":"2020-08-05T23:34:25.582033043Z"}
+{"log":"[2020-08-05T23:34:25Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to 38162cb0-e585-43d7-b55d-5c240b2bfb7c/+/+\n","stream":"stderr","time":"2020-08-05T23:34:25.584622645Z"}
+{"log":"[2020-08-05T23:34:25Z INFO  dt_instance] SubAck { pkid: 1, return_codes: [Success(AtLeastOnce)] }\n","stream":"stderr","time":"2020-08-05T23:34:25.68771891Z"}
