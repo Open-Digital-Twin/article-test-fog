@@ -38,6 +38,7 @@ services:
       placement:    
         constraints:
           - node.labels.name == cloud
+    command: sh -c './wait-for scylla-db:9042 -- dt-instance'
   mqtt-broker:
     image: "eclipse-mosquitto:1.6.10"
     networks:
