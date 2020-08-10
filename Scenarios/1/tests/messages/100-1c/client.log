@@ -1,0 +1,520 @@
+2020-08-10T07:24:29.453396681Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] Starting client. Host at mqtt-broker:1883
+2020-08-10T07:24:29.453450600Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] Thread of topic 38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3
+2020-08-10T07:24:29.453463845Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] 0::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "0 WSKekhZ9SnN1zxgykfePemsoAMzRJZQ7x1JNMfJJQK4ybYS3y1xc81fGajTO2H"
+2020-08-10T07:24:29.464537805Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] 1::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "1 AgBVwhPvQ5TAC4CIrF19YjvdOkO8WYqSpqH44GCRKcYM5A5y5UhA7B43NxW0Ic"
+2020-08-10T07:24:29.475784700Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] 2::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "2 IZgz7aXyqALNLHaJYNmXIeW0NRPfIs8C3YnN7rg0srtWZ0aWpVnYTAP5PJH162"
+2020-08-10T07:24:29.487064150Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] 3::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "3 i5Cg5uVeTBftX8MROm5k3wrzzgUvUxXRVNVEC62Ys1PQ1AWfTqOcD2RA8hH2gK"
+2020-08-10T07:24:29.498268273Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] 4::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "4 CRQmPs8MI5Gy06iA63R6gIiZT9dEEsk5rwydKFcyRFJCfi0BPHk1bOl1unuua1"
+2020-08-10T07:24:29.509421004Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] 5::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "5 jHUDMjJU1L0kaQshaz8gcy6Vh8khIaLZmZk8ciajACIyDbafY8j6guR84Pu3UM"
+2020-08-10T07:24:29.520828844Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] 6::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "6 oTqCpcZtzDFOC9DNTzbatf9QlgFwR05RQpV47DFQ3379WiRXGaqnvtZTPfMg8G"
+2020-08-10T07:24:29.532099448Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] 7::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "7 6KpO6wU4jDHTwAuJNKALBibm12ubY5qgZaJA6Dv8XwYiKOdSIU1IayANDqem6w"
+2020-08-10T07:24:29.542960153Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] 8::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "8 9ZEiCtnRgaSO6JT0AFkJPt4XlPYTj3KUSDubqbBFWpP4xrc4RMNmogydXC0mLv"
+2020-08-10T07:24:29.554264055Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] 9::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "9 SnW4IK9FrolFeg0dSJ30X4aBRgsjNwLIDK3zPvsdXVt7qWYDEuVULH3ORNQEip"
+2020-08-10T07:24:29.565533067Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] 10::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "10 kt21LBb0qkWxA2EfGlFzsCuUCNG9MtjlIgojwCWzpowxrnCiRkIPV6Q5x7n8w"
+2020-08-10T07:24:29.576793300Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] 11::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "11 LdyTETvPxwRxbhIulSEOoZgNbNNuatXhyg4gLOHQ0kDjCfG0Q4QmwWIzwy1pi"
+2020-08-10T07:24:29.588384972Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] 12::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "12 0SiNpSN0Y238jKDPxOlqIIO5CObVUFp2C78VAPYfG7UMTyCdpkOgPxmzDsOeA"
+2020-08-10T07:24:29.599645133Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] 13::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "13 wp43edqU3l5DlZYL1Oix2seRe0x5gGmXuQWU2fejgttVgXwqA3tibnzKmp5fs"
+2020-08-10T07:24:29.610787475Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] 14::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "14 7Q40rXfkpEsrqW17BJQfkY51olqgQHf6ACIeg30UEUlBW2A4yLtb0dnMrYVgl"
+2020-08-10T07:24:29.621998607Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] 15::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "15 euucIneDB1A7amQuELmdBzT5ywivYUrvfPXqg5VJ3MABU0sGhIQHMX8A6rNKA"
+2020-08-10T07:24:29.633076188Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] 16::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "16 1A1FJcVa2DmqZlj45z9pzflj7wGuFGvT5R8xPk93AyyPFRqH3umjgfoluGn4q"
+2020-08-10T07:24:29.644237666Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] 17::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "17 eU896iKLlpQPYOl7gTAUhceVM3vVvpUX4O8oMXBqOVw3NkTzNUSM9hGGI0pfd"
+2020-08-10T07:24:29.654624727Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] Publish 1
+2020-08-10T07:24:29.655792189Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] Publish 2
+2020-08-10T07:24:29.655811484Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] 18::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "18 yHbgSrAE9dPkt15aB1fbjE7fdD3nvEC81VKJpXs6nibA0nSe2NZyQdonhltOk"
+2020-08-10T07:24:29.656948048Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] Publish 3
+2020-08-10T07:24:29.658134714Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] Publish 4
+2020-08-10T07:24:29.659301582Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] Publish 5
+2020-08-10T07:24:29.660480587Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] Publish 6
+2020-08-10T07:24:29.661685187Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] Publish 7
+2020-08-10T07:24:29.661702957Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] Publish 8
+2020-08-10T07:24:29.662940603Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] Publish 9
+2020-08-10T07:24:29.664044481Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] Publish 10
+2020-08-10T07:24:29.665227490Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] Publish 11
+2020-08-10T07:24:29.666374132Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] Publish 12
+2020-08-10T07:24:29.667644236Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] Publish 13
+2020-08-10T07:24:29.667693924Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] 19::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "19 jfQys4FuxcWm5hlHNpVsk9caxtRVoAtPk9iCD5rNVV91z2LWQmB2PigQ2dmvb"
+2020-08-10T07:24:29.668772036Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] Publish 14
+2020-08-10T07:24:29.669931921Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] Publish 15
+2020-08-10T07:24:29.671081735Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] Publish 16
+2020-08-10T07:24:29.672284237Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] Publish 17
+2020-08-10T07:24:29.673433809Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] Publish 18
+2020-08-10T07:24:29.674588425Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] Publish 19
+2020-08-10T07:24:29.675738989Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] Publish 20
+2020-08-10T07:24:29.680295364Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] 20::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "20 W8Hx1vb1ZHNH1bXtagCqToFXJXZ1cMQzomLrtJluiX0P69AnlCABXpX0M4Spv"
+2020-08-10T07:24:29.680316019Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] Publish 21
+2020-08-10T07:24:29.694535299Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] 21::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "21 ebvb7OF4JjCPrsicublt84Mzi92fcSawDSipGUWeC7MZ2ibxm5TqiqKZcpAq8"
+2020-08-10T07:24:29.694555083Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] Publish 22
+2020-08-10T07:24:29.705356491Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] 22::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "22 9orTpgnUbx1L3jNxA7CnGpCOq3mPemXR6jYaclsvUhBgryVnJopf5JNTxDsmX"
+2020-08-10T07:24:29.705397539Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] Publish 23
+2020-08-10T07:24:29.717162887Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] 23::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "23 OSUv1SWkYKdgASugLcJNsg1j05meSglhoygyPRRZkwqLlgut4yIuTiGgDnU0r"
+2020-08-10T07:24:29.717222096Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] Publish 24
+2020-08-10T07:24:29.728799540Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] 24::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "24 q5GIo4kSt1KcO7hISOzJcgBmGuOsOaV9dpEMu0C6omvFhNciJcbByR8hUt6sY"
+2020-08-10T07:24:29.728838565Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] Publish 25
+2020-08-10T07:24:29.739257238Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] 25::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "25 PJwAnlm72J4UdCf9oX85iAGbhoe1uVOOHRKf2MncbRfB4dIrLdRqmTebcIAmW"
+2020-08-10T07:24:29.739281431Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] Publish 26
+2020-08-10T07:24:29.743619939Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] PubAck { pkid: 1 }
+2020-08-10T07:24:29.750364083Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] 26::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "26 Xku7kWLuMELz00SRyHPwvm1nv3tNme07JpHTNgHedUhMPBkUZ130Z6jLbmZza"
+2020-08-10T07:24:29.750422078Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] Publish 27
+2020-08-10T07:24:29.762060582Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] 27::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "27 R2nPV4r9jPrW6kzG7iUETq4jhg9YAEf0h8fjATExT0LYTxubIPMrdjbgIh8bE"
+2020-08-10T07:24:29.762103140Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] Publish 28
+2020-08-10T07:24:29.773988851Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] 28::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "28 G3liLAadeVA4sdDkiEwSqmv7ZsXcE7zD0cGwpPdQKDqd1KkMvTuNRteYjge6g"
+2020-08-10T07:24:29.774021404Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] Publish 29
+2020-08-10T07:24:29.784163259Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] 29::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "29 2rO3wU1FafV72gvfrjBElzFxuXgFN0Vkrx20yy4FfOC6oaYdLianyRmxSp5fD"
+2020-08-10T07:24:29.784232611Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] Publish 30
+2020-08-10T07:24:29.795866725Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] 30::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "30 bVG1m5UNjwtnuNGEV3RkVbPXG7yQqfh89as3smt6FjwDGqIriOsjPsi1oLbyZ"
+2020-08-10T07:24:29.795949601Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] Publish 31
+2020-08-10T07:24:29.806592754Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] 31::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "31 3L0riOiKCro8KTXrY0rc3oqYXYTnxvJXABGD74SVTNMZTe7zGQQ1gJQLfHiTv"
+2020-08-10T07:24:29.806675585Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] Publish 32
+2020-08-10T07:24:29.817292809Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] 32::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "32 yWzfPPEZDY4586JKD0mbKoC2l7ILzqARcbfwfy51MwW5Vk1V9hpkb7UnVl6ic"
+2020-08-10T07:24:29.817375004Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] Publish 33
+2020-08-10T07:24:29.829131286Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] 33::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "33 47Mfjy3KgQEZPHIdRAmAdpAbw0jw160rv9tj6MH62eOK3xq8lehW5VcBVIadK"
+2020-08-10T07:24:29.829218746Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] Publish 34
+2020-08-10T07:24:29.834117382Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] PubAck { pkid: 2 }
+2020-08-10T07:24:29.835160290Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] PubAck { pkid: 3 }
+2020-08-10T07:24:29.836401892Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] PubAck { pkid: 4 }
+2020-08-10T07:24:29.837736468Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] PubAck { pkid: 5 }
+2020-08-10T07:24:29.838958514Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] PubAck { pkid: 6 }
+2020-08-10T07:24:29.840278057Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] PubAck { pkid: 7 }
+2020-08-10T07:24:29.840359167Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] 34::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "34 D4R8gS5iyYDj5v0gr5NJDbPHCvKbIqnpZK9Qn0BfosE66imlpaeqYkZt72bOP"
+2020-08-10T07:24:29.841531417Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] PubAck { pkid: 8 }
+2020-08-10T07:24:29.842925140Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] PubAck { pkid: 9 }
+2020-08-10T07:24:29.843010768Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] PubAck { pkid: 10 }
+2020-08-10T07:24:29.844217415Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] PubAck { pkid: 11 }
+2020-08-10T07:24:29.845458866Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] PubAck { pkid: 12 }
+2020-08-10T07:24:29.846697300Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] Publish 35
+2020-08-10T07:24:29.847912747Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] PubAck { pkid: 13 }
+2020-08-10T07:24:29.849148013Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] PubAck { pkid: 14 }
+2020-08-10T07:24:29.850397091Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] PubAck { pkid: 15 }
+2020-08-10T07:24:29.851860983Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] PubAck { pkid: 16 }
+2020-08-10T07:24:29.851928904Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] 35::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "35 pp32UbXsZQwU2sJFNjhyFkYX0wPTnlO02cugckaj2mOGGeKkwt4CM3NCVtBNO"
+2020-08-10T07:24:29.851948404Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] Publish 36
+2020-08-10T07:24:29.862905985Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] 36::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "36 5Maslm5iS3V8eMISNNNb2POFZI45Crq4qeolM50OFBK5xDO2QQ8cgTvvNBhFE"
+2020-08-10T07:24:29.862988638Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] Publish 37
+2020-08-10T07:24:29.874659103Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] 37::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "37 NsUBo41FloIMfEURt3ht8J02piggTyfgN1DdR8ZVF8YLesl4b81O1tGnykc6N"
+2020-08-10T07:24:29.874747487Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] Publish 38
+2020-08-10T07:24:29.885371954Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] 38::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "38 Cgg6LZBBi24mN9QLIornz43tciTakqKdpgy8j9UMHYi3oRD0c1Y5tO4dxNI8E"
+2020-08-10T07:24:29.885461071Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] Publish 39
+2020-08-10T07:24:29.897113505Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] 39::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "39 E1QgfjMVLynbdRtO920krwol5PHQWHpTANrOC2lNAe6KUDgEkKqK8CNKYwhuA"
+2020-08-10T07:24:29.897202162Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] Publish 40
+2020-08-10T07:24:29.909015720Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] 40::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "40 nCaSBfS5TBcRylrlHiSzSN4FzCIigBroBakA8IBFgZrvcOk5gNvIYZPB7B3lj"
+2020-08-10T07:24:29.909103588Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] Publish 41
+2020-08-10T07:24:29.921144570Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] 41::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "41 lJPjXgJsNaGaxKHF2OfoYe6FyMMVM4t7nl4CVLsWBwMYFUuuwIS2tJWpWYccJ"
+2020-08-10T07:24:29.921247521Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] Publish 42
+2020-08-10T07:24:29.931842319Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] 42::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "42 9iB7iboonZatq9359LCQ1SBUklvaYpHpkVZ0WGm8aHeRsEzAF3Jky9DcTvhbl"
+2020-08-10T07:24:29.931994703Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] Publish 43
+2020-08-10T07:24:29.938283246Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] PubAck { pkid: 17 }
+2020-08-10T07:24:29.939366638Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] PubAck { pkid: 18 }
+2020-08-10T07:24:29.940508045Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] PubAck { pkid: 19 }
+2020-08-10T07:24:29.941648761Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] PubAck { pkid: 20 }
+2020-08-10T07:24:29.942846481Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] PubAck { pkid: 21 }
+2020-08-10T07:24:29.942864557Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] 43::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "43 PBdeqFZ06fuMBBgN7O6sWlPp2iVsbo6ftKxigHgKtIydf7QIDJePTV0ymdKwO"
+2020-08-10T07:24:29.943983353Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] PubAck { pkid: 22 }
+2020-08-10T07:24:29.945116015Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] PubAck { pkid: 23 }
+2020-08-10T07:24:29.946252255Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] Publish 44
+2020-08-10T07:24:29.947407227Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] PubAck { pkid: 24 }
+2020-08-10T07:24:29.948582767Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] PubAck { pkid: 25 }
+2020-08-10T07:24:29.949711927Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] PubAck { pkid: 26 }
+2020-08-10T07:24:29.950866462Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] PubAck { pkid: 27 }
+2020-08-10T07:24:29.952035771Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] PubAck { pkid: 28 }
+2020-08-10T07:24:29.953144596Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] PubAck { pkid: 29 }
+2020-08-10T07:24:29.954334593Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] PubAck { pkid: 30 }
+2020-08-10T07:24:29.954352395Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] 44::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "44 m83T2HFhRiUUx1yaKVWAxNitwRUMsBlOYP8ZDEDysKYCzBFkzjTlLdqPW2E0s"
+2020-08-10T07:24:29.955484449Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] Publish 45
+2020-08-10T07:24:29.956630013Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] PubAck { pkid: 31 }
+2020-08-10T07:24:29.957768381Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] PubAck { pkid: 32 }
+2020-08-10T07:24:29.958976275Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] PubAck { pkid: 33 }
+2020-08-10T07:24:29.965901940Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] 45::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "45 crdsWjUVtke7oF4NrnCJCkH77vIzmYgHg49hVJqE34uvnZ5PO5bw3YhsncxnL"
+2020-08-10T07:24:29.965926866Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] Publish 46
+2020-08-10T07:24:29.977307823Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] 46::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "46 icmtnPUJCwfTPHa45O9XyfKn7ZWj8Ayplymjpq7Q5flfFuTRGdsTDkF1phNZx"
+2020-08-10T07:24:29.977351214Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] Publish 47
+2020-08-10T07:24:29.988761636Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] 47::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "47 YFdoX0XePgsAkCMfz8GrlVlcbwt9OJImaOLL6ymd6msvTEyZk6LHEGo4X4yOQ"
+2020-08-10T07:24:29.988787553Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] Publish 48
+2020-08-10T07:24:29.999228043Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] 48::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "48 umDwscfVJUnpHrpoBWu9dq0ToVdhCvJ40Xppf52b8Bz3gXavU0m2TwYeWo7of"
+2020-08-10T07:24:29.999286580Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:29Z INFO  dt_client_bytes] Publish 49
+2020-08-10T07:24:30.010863836Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] 49::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "49 GvmHexL3Hoh0tkwnJWY373YuY6C0S3Gyo4Ju340TWEMnpRsxBsmFn1QAUP3wd"
+2020-08-10T07:24:30.010929155Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] Publish 50
+2020-08-10T07:24:30.022684453Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] 50::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "50 EEuCpEUKH7HtCJQcfQ8Zy2Eb02eJlVeYzZ5gQ2szo16XSwklgqTTOnegwZGpV"
+2020-08-10T07:24:30.022762113Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] Publish 51
+2020-08-10T07:24:30.024844710Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] PubAck { pkid: 34 }
+2020-08-10T07:24:30.033327340Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] 51::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "51 spjQ91T3UfPzBQe0FLwge7l1kPzgwxG5q7bDOC9pHCTpkQ9LqoO4fql9bBGgq"
+2020-08-10T07:24:30.033403915Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] Publish 52
+2020-08-10T07:24:30.045045207Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] 52::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "52 ct7Yt6R5L25m18Jl1fe4tCJw9VzzEPlgi9rE357EdAi5FvsrFOZdgl8cPUUf6"
+2020-08-10T07:24:30.045080007Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] Publish 53
+2020-08-10T07:24:30.056833663Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] 53::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "53 lFK2jCQn2kD9FjZJPsg8oYC2jZiqSCfSQypMFI5ppbCdpHVEFHCADqbJdpRxu"
+2020-08-10T07:24:30.056916739Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] Publish 54
+2020-08-10T07:24:30.067354956Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] 54::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "54 03bPhiQi7E45HpvT6zN2P3F3EvgnhWc4GZ72Eh63IrEC9GHQ5DgFkb5KBAGkK"
+2020-08-10T07:24:30.067492248Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] Publish 55
+2020-08-10T07:24:30.079068316Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] 55::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "55 rvxUdKJ3jZVibCl5ivLXJw42tQWwYd1BOYxxsjo1pgp7tw7T4OElc2VDx27Dn"
+2020-08-10T07:24:30.079156084Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] Publish 56
+2020-08-10T07:24:30.090771133Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] 56::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "56 OpeMyOHuTQPbqwwI7rzWMjvIQK8rm9YS29Cf9GVXYLTljyGRGHHaXJISWHcNW"
+2020-08-10T07:24:30.090858874Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] Publish 57
+2020-08-10T07:24:30.101709286Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] 57::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "57 c62wTwTQG1l9npHSsU9ilgJXMnRC7DRHevyQB5mbBJwYIOPwGZFJPHXWK5IOH"
+2020-08-10T07:24:30.101871090Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] Publish 58
+2020-08-10T07:24:30.112540798Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] 58::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "58 uHaZkjt1AWzaTmuq9ndyyv8Wt0yggL1RBz3T3DMwcD4fT6P6HT3PpVWOqrYnd"
+2020-08-10T07:24:30.112629015Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] Publish 59
+2020-08-10T07:24:30.124107216Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] 59::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "59 gsONWKDvBdjTlYCjBqXr2b7AquZcaZPBoxlUiZttHeZAFq3wi5Wkzpp54jQeh"
+2020-08-10T07:24:30.124194907Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] Publish 60
+2020-08-10T07:24:30.128954028Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] PubAck { pkid: 35 }
+2020-08-10T07:24:30.130266518Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] PubAck { pkid: 36 }
+2020-08-10T07:24:30.131618230Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] PubAck { pkid: 37 }
+2020-08-10T07:24:30.132906444Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] PubAck { pkid: 38 }
+2020-08-10T07:24:30.134231365Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] PubAck { pkid: 39 }
+2020-08-10T07:24:30.135514374Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] PubAck { pkid: 40 }
+2020-08-10T07:24:30.135596439Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] 60::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "60 TPkvN2FxVpTzfhDerQxGj1VpZAmGKTwh65bdjpTQT4K6a1tWrlr75tHbgXp9b"
+2020-08-10T07:24:30.136774271Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] PubAck { pkid: 41 }
+2020-08-10T07:24:30.138102367Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] Publish 61
+2020-08-10T07:24:30.139388966Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] PubAck { pkid: 42 }
+2020-08-10T07:24:30.140662929Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] PubAck { pkid: 43 }
+2020-08-10T07:24:30.142018559Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] PubAck { pkid: 44 }
+2020-08-10T07:24:30.143185614Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] PubAck { pkid: 45 }
+2020-08-10T07:24:30.144425318Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] PubAck { pkid: 46 }
+2020-08-10T07:24:30.145628986Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] PubAck { pkid: 47 }
+2020-08-10T07:24:30.146851300Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] PubAck { pkid: 48 }
+2020-08-10T07:24:30.146912952Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] 61::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "61 0NLK2P1ALOty4RD39dc5GBrDAHQLDxCUZps7cocWiaDygE7SwEdkKJfEHlgya"
+2020-08-10T07:24:30.148053087Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] PubAck { pkid: 49 }
+2020-08-10T07:24:30.149240193Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] PubAck { pkid: 50 }
+2020-08-10T07:24:30.150450485Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] Publish 62
+2020-08-10T07:24:30.158904255Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] 62::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "62 kQDZ3IRk0PPPPe6h4tZBizVteyLVT89ISEm6ViZLrPfH7MojYaLZ8YDu0t8Dk"
+2020-08-10T07:24:30.158984761Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] Publish 63
+2020-08-10T07:24:30.170504745Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] 63::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "63 rzCQLLRhARPvfRQaAOuOPPPU72Z4t0WuoLwldA9bVksgaRLVC8fUWAs2Ltm6i"
+2020-08-10T07:24:30.170583399Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] Publish 64
+2020-08-10T07:24:30.182241749Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] 64::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "64 BdQtnV95emSSDepu9FTO7z9Mpu4eAe63g26NaMAXfSpq7To4QxwaLDa4sdzsO"
+2020-08-10T07:24:30.182329150Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] Publish 65
+2020-08-10T07:24:30.194044926Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] 65::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "65 BdZpzlu8MLOpJN64Tfbstay5o3oaBNO8dfpQt0qfPqHH12cma8ppj9VM5Jkdl"
+2020-08-10T07:24:30.194115097Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] Publish 66
+2020-08-10T07:24:30.205640256Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] 66::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "66 tsCWOU5XT2XHRovC2s6V8MiMCjB99JIIUe1aX4HUSFII5oZe2aQw2PILBDNcz"
+2020-08-10T07:24:30.205723194Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] Publish 67
+2020-08-10T07:24:30.216317146Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] 67::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "67 JKjt505F9goHQMAd8fLcCRTsffQwOzrpQMlHpk1bDI187V4bmtmuiKKZTqfS7"
+2020-08-10T07:24:30.216386730Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] Publish 68
+2020-08-10T07:24:30.226950606Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] PubAck { pkid: 51 }
+2020-08-10T07:24:30.227039912Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] 68::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "68 00G2ZwXfhi5hZ05PNtZMTnRIYrH7vk9CDDxMA1Ok4paHvy8JOvuThlyJAlUla"
+2020-08-10T07:24:30.228149512Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] PubAck { pkid: 52 }
+2020-08-10T07:24:30.229445715Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] Publish 69
+2020-08-10T07:24:30.230688756Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] PubAck { pkid: 53 }
+2020-08-10T07:24:30.231964988Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] PubAck { pkid: 54 }
+2020-08-10T07:24:30.233237774Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] PubAck { pkid: 55 }
+2020-08-10T07:24:30.234510883Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] PubAck { pkid: 56 }
+2020-08-10T07:24:30.235866185Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] PubAck { pkid: 57 }
+2020-08-10T07:24:30.235933431Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] PubAck { pkid: 58 }
+2020-08-10T07:24:30.238601119Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] 69::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "69 Mjw66WB1xaukqpknz9H86vINfw0ip8KpPGLKCVfqE7y8WSh4R7xiyUNB9jAHw"
+2020-08-10T07:24:30.238665233Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] Publish 70
+2020-08-10T07:24:30.249304293Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] 70::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "70 4atnaEHadoxevd7usyotN7soyEH78xMwDEgg8yaaqjw3CU4QLf2QbugKod4jo"
+2020-08-10T07:24:30.249390688Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] Publish 71
+2020-08-10T07:24:30.261041944Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] 71::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "71 bvN0MteMWzEjiDIK9BPrqml4xAe7rD3usPZ7iuugvqXRst5D5Ozt5uwdwSxOt"
+2020-08-10T07:24:30.261136922Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] Publish 72
+2020-08-10T07:24:30.272771640Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] 72::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "72 P1g0PKOQUXFefdrbfUOD80cE9F2P92fZ8ECdhDojjpxwcC98x71GC9ZGaJVSr"
+2020-08-10T07:24:30.272859822Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] Publish 73
+2020-08-10T07:24:30.283527278Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] 73::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "73 plFNSCukLUQAzDK0Ck8HvXFBZ7KHnCYdHYBCtJkmqGcy22ro6aoMJBhl9jnqC"
+2020-08-10T07:24:30.283615743Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] Publish 74
+2020-08-10T07:24:30.294546582Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] 74::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "74 NXERRcSvKnx0t2QhRGI7aq5PciuxENvN6OpYa91nabd5lVeT1QdBHcvrJ7Vls"
+2020-08-10T07:24:30.294635080Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] Publish 75
+2020-08-10T07:24:30.306377148Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] 75::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "75 HmwcTTzCZApsf1EFRxwtqldnuXju9K7oBXOyk95WvUxm1gi7TDuAt4zDv9QOh"
+2020-08-10T07:24:30.306465392Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] Publish 76
+2020-08-10T07:24:30.318052935Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] 76::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "76 mzbJ6NecICIvw9SrETiuVbBIhJYktjUb3lcm0qnTzSWNsraeJBSeBEUVFyGVS"
+2020-08-10T07:24:30.318143535Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] Publish 77
+2020-08-10T07:24:30.329761725Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] 77::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "77 1HrBI43aSDSgwr4oTowKpVrZsJHjvU1X7xq13ip9qMS9eIGnoDiubXC323lOL"
+2020-08-10T07:24:30.329927104Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] Publish 78
+2020-08-10T07:24:30.331897440Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] PubAck { pkid: 59 }
+2020-08-10T07:24:30.333254429Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] PubAck { pkid: 60 }
+2020-08-10T07:24:30.334533013Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] PubAck { pkid: 61 }
+2020-08-10T07:24:30.335892431Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] PubAck { pkid: 62 }
+2020-08-10T07:24:30.335975222Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] PubAck { pkid: 63 }
+2020-08-10T07:24:30.337107290Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] PubAck { pkid: 64 }
+2020-08-10T07:24:30.338432697Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] PubAck { pkid: 65 }
+2020-08-10T07:24:30.339775179Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] PubAck { pkid: 66 }
+2020-08-10T07:24:30.341037066Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] PubAck { pkid: 67 }
+2020-08-10T07:24:30.341122721Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] 78::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "78 hG1qh9PiKbxbFO5tZnayYPZsEyIIQ75suRiOvmcFrQuUc9lUdMlpgzYiq1c7H"
+2020-08-10T07:24:30.342205618Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] Publish 79
+2020-08-10T07:24:30.353620461Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] 79::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "79 4qw25icr5K09hWHTXw66QrA7HosOIKZMavjOhhFUQemmfkORrdYJRfWHYNtL0"
+2020-08-10T07:24:30.353699076Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] Publish 80
+2020-08-10T07:24:30.364389592Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] 80::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "80 ZhjT8gnbQ5JmovTqomY1MpZ8qmusUqMGJ5MduJLfbi8ZTGxQ2EdiUvFYFkzBb"
+2020-08-10T07:24:30.364479574Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] Publish 81
+2020-08-10T07:24:30.376143172Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] 81::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "81 d0OAuEabR7hVjReAaSSn6qMjIQBwW9WoXEfAFvzmCZQMu0tQZxfy2dF5NolDQ"
+2020-08-10T07:24:30.376232333Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] Publish 82
+2020-08-10T07:24:30.387940686Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] 82::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "82 s5Kk8gNyHXLxgCuuy4LVhOklXHAWDkZmifVBhYZ8KKnD1JpZ6uQPEUtQfnLQ6"
+2020-08-10T07:24:30.388050614Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] Publish 83
+2020-08-10T07:24:30.398680091Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] 83::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "83 6ysd5EOcO9LjhYnbr3ZOp82W5tNAkfhRJaan1SF6bXqWNdV6rv2Trxo1fsjpQ"
+2020-08-10T07:24:30.398769288Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] Publish 84
+2020-08-10T07:24:30.409378662Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] 84::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "84 cCGWICZPFAj8cEoTLvsiAo3v1yhdhQBzdwyRsMtya8RAjubEgOyvJd0x86oAS"
+2020-08-10T07:24:30.409477071Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] Publish 85
+2020-08-10T07:24:30.421329125Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] 85::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "85 kmCGRi9qg3RVjpfm17Iv1ZeX0ZHqsvHremtdJsUOFh6FhzmOSmPnnJt4Q5gOA"
+2020-08-10T07:24:30.421412822Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] Publish 86
+2020-08-10T07:24:30.432912512Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] 86::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "86 svbtwLApnZstaqJtMBOR7rPkf1AwgFWvq6g8owsOHVg5VyfWzlCIlf982QBEt"
+2020-08-10T07:24:30.433001837Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] Publish 87
+2020-08-10T07:24:30.435276690Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] PubAck { pkid: 68 }
+2020-08-10T07:24:30.436580869Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] PubAck { pkid: 69 }
+2020-08-10T07:24:30.437916411Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] PubAck { pkid: 70 }
+2020-08-10T07:24:30.439097881Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] PubAck { pkid: 71 }
+2020-08-10T07:24:30.440485864Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] PubAck { pkid: 72 }
+2020-08-10T07:24:30.441687327Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] PubAck { pkid: 73 }
+2020-08-10T07:24:30.442992508Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] PubAck { pkid: 74 }
+2020-08-10T07:24:30.443067363Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] 87::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "87 RKeVzy9Z7JxLDhUCWsX9TkGq8RYuDLyJ5WL2uaASOvx03S8kKxoIYAMhZIiT8"
+2020-08-10T07:24:30.444225227Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] Publish 88
+2020-08-10T07:24:30.445444643Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] PubAck { pkid: 75 }
+2020-08-10T07:24:30.455581053Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] 88::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "88 BisDZTdGc2SUOCtLCSouzT8yROiRVzAXAPbmDRwYfRq8pEn28UbIMPGnl5XoA"
+2020-08-10T07:24:30.455670140Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] Publish 89
+2020-08-10T07:24:30.467272986Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] 89::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "89 G5B1i3vtQEjKp0i0TCuvvewNK6ytYLkyiZbFvpDbQtSfoJqb6cAsZqTfZn7Sm"
+2020-08-10T07:24:30.467362276Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] Publish 90
+2020-08-10T07:24:30.479316569Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] 90::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "90 J75N5TJyOYOjVgrB1KYz2h1ESVXr6EjWt3FRmaIaQwJSqk1T3hpV9Vcnr7LSn"
+2020-08-10T07:24:30.479370512Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] Publish 91
+2020-08-10T07:24:30.491084762Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] 91::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "91 2s7gHohid9kxMA29eVKq4uV5IvALwWGQoyJ4O3QXOk6SsETRNwFtx3UuaiZwv"
+2020-08-10T07:24:30.491236994Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] Publish 92
+2020-08-10T07:24:30.502854814Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] 92::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "92 OsDAMKylmTn41qGFQE4m58FlHjgSLcJy4cC1J9Zqd3ZQ5BFh0cuGssgIZLymz"
+2020-08-10T07:24:30.503012332Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] Publish 93
+2020-08-10T07:24:30.513323189Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] 93::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "93 ef6GzD70lbip3bc2LrlOssv0x8U3FKWXemE5Tug2LEI5mxCkTQOiCRUvyuZY5"
+2020-08-10T07:24:30.513412490Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] Publish 94
+2020-08-10T07:24:30.517102279Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] PubAck { pkid: 76 }
+2020-08-10T07:24:30.518373033Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] PubAck { pkid: 77 }
+2020-08-10T07:24:30.526723292Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] PubAck { pkid: 78 }
+2020-08-10T07:24:30.526746762Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] 94::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "94 w9uplewnCPh3Zrmr8Lh6DddYsq5PcfAwblGy02W7bFY4J7ll6TafOW4wb08Wl"
+2020-08-10T07:24:30.526791927Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] Publish 95
+2020-08-10T07:24:30.535188205Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] 95::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "95 3xsGG0HbHc8olALM7DrXPXfdVZPMsQVLMA1cEX1J8Q9N1kVZ2SAVT3uBg9M4p"
+2020-08-10T07:24:30.535240935Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] Publish 96
+2020-08-10T07:24:30.547273858Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] 96::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "96 kgrpcXbrMoA61ddyEnCY1gOAgqklt1lhKR3uUGyh4YDne2i8OUczO07EwxNx2"
+2020-08-10T07:24:30.547362625Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] Publish 97
+2020-08-10T07:24:30.558945877Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] 97::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "97 Rk5XdGZ6OWYkoRTulIFAxDPaJ3E7NWiLkFvoNUadGwcz20uA9lVInQubo14vN"
+2020-08-10T07:24:30.559033938Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] Publish 98
+2020-08-10T07:24:30.570622344Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] 98::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "98 SW7vm1VIKwWdSNyp0V80giT4WjU5Y0sb6L1OyyrySL7cxJ9KQSH7uYBeNYErW"
+2020-08-10T07:24:30.570711086Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] Publish 99
+2020-08-10T07:24:30.582229194Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] 99::38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 "99 su0ldBEJPDyGhVFe59gl9WNP85OdC90A3JpZGz5n5jziDSuzDvdFBKnxbB7pj"
+2020-08-10T07:24:30.582318841Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] Publish 100
+2020-08-10T07:24:30.582404729Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] NotificationCounter {
+2020-08-10T07:24:30.582427729Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          Pub: 100,
+2020-08-10T07:24:30.582491412Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubAck: 78,
+2020-08-10T07:24:30.582509892Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubRec: 0,
+2020-08-10T07:24:30.582527769Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubRel: 0,
+2020-08-10T07:24:30.582588804Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubComp: 0,
+2020-08-10T07:24:30.582607190Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |      }
+2020-08-10T07:24:30.593614950Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] Thread 38162cb0-e585-43d7-b55d-5c240b2bfb7c/3142192f-6bae-4f12-a6f3-5464dc37e790/d0a71d84-b80f-4558-beac-8887750652e3 done with 100 messages.
+2020-08-10T07:24:30.622170022Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] PubAck { pkid: 79 }
+2020-08-10T07:24:30.622260030Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] NotificationCounter {
+2020-08-10T07:24:30.622321637Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          Pub: 100,
+2020-08-10T07:24:30.622341850Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubAck: 79,
+2020-08-10T07:24:30.622358700Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubRec: 0,
+2020-08-10T07:24:30.622412704Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubRel: 0,
+2020-08-10T07:24:30.622433671Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubComp: 0,
+2020-08-10T07:24:30.622451068Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |      }
+2020-08-10T07:24:30.623376840Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] PubAck { pkid: 80 }
+2020-08-10T07:24:30.623588251Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] NotificationCounter {
+2020-08-10T07:24:30.623620795Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          Pub: 100,
+2020-08-10T07:24:30.623686329Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubAck: 80,
+2020-08-10T07:24:30.623704829Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubRec: 0,
+2020-08-10T07:24:30.623721952Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubRel: 0,
+2020-08-10T07:24:30.623787626Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubComp: 0,
+2020-08-10T07:24:30.623806316Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |      }
+2020-08-10T07:24:30.624604267Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] PubAck { pkid: 81 }
+2020-08-10T07:24:30.624636527Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] NotificationCounter {
+2020-08-10T07:24:30.624866265Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          Pub: 100,
+2020-08-10T07:24:30.624884895Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubAck: 81,
+2020-08-10T07:24:30.624901953Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubRec: 0,
+2020-08-10T07:24:30.624919600Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubRel: 0,
+2020-08-10T07:24:30.624937037Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubComp: 0,
+2020-08-10T07:24:30.624954180Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |      }
+2020-08-10T07:24:30.625907202Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] PubAck { pkid: 82 }
+2020-08-10T07:24:30.625939709Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] NotificationCounter {
+2020-08-10T07:24:30.625957995Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          Pub: 100,
+2020-08-10T07:24:30.625975045Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubAck: 82,
+2020-08-10T07:24:30.625991719Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubRec: 0,
+2020-08-10T07:24:30.626008759Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubRel: 0,
+2020-08-10T07:24:30.626025976Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubComp: 0,
+2020-08-10T07:24:30.626066306Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |      }
+2020-08-10T07:24:30.627176540Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] PubAck { pkid: 83 }
+2020-08-10T07:24:30.627241694Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] NotificationCounter {
+2020-08-10T07:24:30.627265014Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          Pub: 100,
+2020-08-10T07:24:30.627282324Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubAck: 83,
+2020-08-10T07:24:30.627299624Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubRec: 0,
+2020-08-10T07:24:30.627316887Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubRel: 0,
+2020-08-10T07:24:30.627333987Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubComp: 0,
+2020-08-10T07:24:30.627350894Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |      }
+2020-08-10T07:24:30.628487968Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] PubAck { pkid: 84 }
+2020-08-10T07:24:30.628556455Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] NotificationCounter {
+2020-08-10T07:24:30.628578965Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          Pub: 100,
+2020-08-10T07:24:30.628596712Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubAck: 84,
+2020-08-10T07:24:30.628613563Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubRec: 0,
+2020-08-10T07:24:30.628630649Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubRel: 0,
+2020-08-10T07:24:30.628647243Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubComp: 0,
+2020-08-10T07:24:30.628663746Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |      }
+2020-08-10T07:24:30.629801496Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] PubAck { pkid: 85 }
+2020-08-10T07:24:30.629917487Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] NotificationCounter {
+2020-08-10T07:24:30.629978701Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          Pub: 100,
+2020-08-10T07:24:30.630000805Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubAck: 85,
+2020-08-10T07:24:30.630018058Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubRec: 0,
+2020-08-10T07:24:30.630076568Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubRel: 0,
+2020-08-10T07:24:30.630099018Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubComp: 0,
+2020-08-10T07:24:30.630116808Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |      }
+2020-08-10T07:24:30.631006337Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] PubAck { pkid: 86 }
+2020-08-10T07:24:30.631077034Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] NotificationCounter {
+2020-08-10T07:24:30.631098147Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          Pub: 100,
+2020-08-10T07:24:30.631115487Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubAck: 86,
+2020-08-10T07:24:30.631178145Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubRec: 0,
+2020-08-10T07:24:30.631196275Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubRel: 0,
+2020-08-10T07:24:30.631213775Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubComp: 0,
+2020-08-10T07:24:30.631274806Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |      }
+2020-08-10T07:24:30.632147764Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] PubAck { pkid: 87 }
+2020-08-10T07:24:30.632202056Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] NotificationCounter {
+2020-08-10T07:24:30.632216256Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          Pub: 100,
+2020-08-10T07:24:30.632226986Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubAck: 87,
+2020-08-10T07:24:30.632237597Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubRec: 0,
+2020-08-10T07:24:30.632247936Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubRel: 0,
+2020-08-10T07:24:30.632282214Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubComp: 0,
+2020-08-10T07:24:30.632294424Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |      }
+2020-08-10T07:24:30.737570753Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] PubAck { pkid: 88 }
+2020-08-10T07:24:30.737677714Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] NotificationCounter {
+2020-08-10T07:24:30.737701167Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          Pub: 100,
+2020-08-10T07:24:30.737719077Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubAck: 88,
+2020-08-10T07:24:30.737735958Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubRec: 0,
+2020-08-10T07:24:30.737752821Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubRel: 0,
+2020-08-10T07:24:30.737769758Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubComp: 0,
+2020-08-10T07:24:30.737786681Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |      }
+2020-08-10T07:24:30.738869648Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] PubAck { pkid: 89 }
+2020-08-10T07:24:30.738902838Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] NotificationCounter {
+2020-08-10T07:24:30.738921565Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          Pub: 100,
+2020-08-10T07:24:30.738938955Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubAck: 89,
+2020-08-10T07:24:30.738955748Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubRec: 0,
+2020-08-10T07:24:30.738972575Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubRel: 0,
+2020-08-10T07:24:30.738989655Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubComp: 0,
+2020-08-10T07:24:30.739006969Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |      }
+2020-08-10T07:24:30.739023986Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] PubAck { pkid: 90 }
+2020-08-10T07:24:30.739041746Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] NotificationCounter {
+2020-08-10T07:24:30.739058877Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          Pub: 100,
+2020-08-10T07:24:30.739075537Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubAck: 90,
+2020-08-10T07:24:30.739092693Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubRec: 0,
+2020-08-10T07:24:30.739109487Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubRel: 0,
+2020-08-10T07:24:30.739126770Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubComp: 0,
+2020-08-10T07:24:30.739143953Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |      }
+2020-08-10T07:24:30.740088245Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] PubAck { pkid: 91 }
+2020-08-10T07:24:30.740105644Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] NotificationCounter {
+2020-08-10T07:24:30.740115082Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          Pub: 100,
+2020-08-10T07:24:30.740182332Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubAck: 91,
+2020-08-10T07:24:30.740204159Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubRec: 0,
+2020-08-10T07:24:30.740221367Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubRel: 0,
+2020-08-10T07:24:30.740276867Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubComp: 0,
+2020-08-10T07:24:30.740299814Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |      }
+2020-08-10T07:24:30.741479758Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] PubAck { pkid: 92 }
+2020-08-10T07:24:30.741565274Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] NotificationCounter {
+2020-08-10T07:24:30.741626285Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          Pub: 100,
+2020-08-10T07:24:30.741649562Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubAck: 92,
+2020-08-10T07:24:30.741668076Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubRec: 0,
+2020-08-10T07:24:30.741723243Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubRel: 0,
+2020-08-10T07:24:30.741745740Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubComp: 0,
+2020-08-10T07:24:30.741763836Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |      }
+2020-08-10T07:24:30.742678906Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] PubAck { pkid: 93 }
+2020-08-10T07:24:30.742746568Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] NotificationCounter {
+2020-08-10T07:24:30.742784927Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          Pub: 100,
+2020-08-10T07:24:30.742840660Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubAck: 93,
+2020-08-10T07:24:30.742859300Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubRec: 0,
+2020-08-10T07:24:30.742875135Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubRel: 0,
+2020-08-10T07:24:30.742926036Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubComp: 0,
+2020-08-10T07:24:30.742955468Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |      }
+2020-08-10T07:24:30.743937412Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] PubAck { pkid: 94 }
+2020-08-10T07:24:30.744005716Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] NotificationCounter {
+2020-08-10T07:24:30.744025276Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          Pub: 100,
+2020-08-10T07:24:30.744041130Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubAck: 94,
+2020-08-10T07:24:30.744093301Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubRec: 0,
+2020-08-10T07:24:30.744111968Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubRel: 0,
+2020-08-10T07:24:30.744127489Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubComp: 0,
+2020-08-10T07:24:30.744143147Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |      }
+2020-08-10T07:24:30.745181111Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] PubAck { pkid: 95 }
+2020-08-10T07:24:30.745249290Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] NotificationCounter {
+2020-08-10T07:24:30.745269584Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          Pub: 100,
+2020-08-10T07:24:30.745285344Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubAck: 95,
+2020-08-10T07:24:30.745336777Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubRec: 0,
+2020-08-10T07:24:30.745357713Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubRel: 0,
+2020-08-10T07:24:30.745373678Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubComp: 0,
+2020-08-10T07:24:30.745389337Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |      }
+2020-08-10T07:24:30.891285136Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] PubAck { pkid: 96 }
+2020-08-10T07:24:30.891341656Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] NotificationCounter {
+2020-08-10T07:24:30.891402876Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          Pub: 100,
+2020-08-10T07:24:30.891421330Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubAck: 96,
+2020-08-10T07:24:30.891490388Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubRec: 0,
+2020-08-10T07:24:30.891517621Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubRel: 0,
+2020-08-10T07:24:30.891534905Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubComp: 0,
+2020-08-10T07:24:30.891591422Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |      }
+2020-08-10T07:24:30.892448993Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] PubAck { pkid: 97 }
+2020-08-10T07:24:30.892524910Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] NotificationCounter {
+2020-08-10T07:24:30.892545830Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          Pub: 100,
+2020-08-10T07:24:30.892605814Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubAck: 97,
+2020-08-10T07:24:30.892629268Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubRec: 0,
+2020-08-10T07:24:30.892646918Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubRel: 0,
+2020-08-10T07:24:30.892701878Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubComp: 0,
+2020-08-10T07:24:30.892724215Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |      }
+2020-08-10T07:24:30.893704877Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] PubAck { pkid: 98 }
+2020-08-10T07:24:30.893776317Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] NotificationCounter {
+2020-08-10T07:24:30.893797625Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          Pub: 100,
+2020-08-10T07:24:30.893912242Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubAck: 98,
+2020-08-10T07:24:30.893977772Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubRec: 0,
+2020-08-10T07:24:30.894000473Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubRel: 0,
+2020-08-10T07:24:30.894018044Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubComp: 0,
+2020-08-10T07:24:30.894073254Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |      }
+2020-08-10T07:24:30.894948190Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] PubAck { pkid: 99 }
+2020-08-10T07:24:30.895005432Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] NotificationCounter {
+2020-08-10T07:24:30.895022533Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          Pub: 100,
+2020-08-10T07:24:30.895036888Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubAck: 99,
+2020-08-10T07:24:30.895050690Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubRec: 0,
+2020-08-10T07:24:30.895118769Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubRel: 0,
+2020-08-10T07:24:30.895138063Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubComp: 0,
+2020-08-10T07:24:30.895155546Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |      }
+2020-08-10T07:24:30.896195669Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] PubAck { pkid: 100 }
+2020-08-10T07:24:30.896269499Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:30Z INFO  dt_client_bytes] NotificationCounter {
+2020-08-10T07:24:30.896290433Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          Pub: 100,
+2020-08-10T07:24:30.896307629Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubAck: 100,
+2020-08-10T07:24:30.896369347Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubRec: 0,
+2020-08-10T07:24:30.896387264Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubRel: 0,
+2020-08-10T07:24:30.896404794Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubComp: 0,
+2020-08-10T07:24:30.896466355Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |      }
+2020-08-10T07:24:59.454703386Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:59Z INFO  dt_client_bytes] NotificationCounter {
+2020-08-10T07:24:59.454798440Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          Pub: 100,
+2020-08-10T07:24:59.454819874Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubAck: 100,
+2020-08-10T07:24:59.454838021Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubRec: 0,
+2020-08-10T07:24:59.454855181Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubRel: 0,
+2020-08-10T07:24:59.454878173Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubComp: 0,
+2020-08-10T07:24:59.454886571Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |      }
+2020-08-10T07:24:59.531691201Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:24:59Z INFO  dt_client_bytes] NotificationCounter {
+2020-08-10T07:24:59.531760322Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          Pub: 100,
+2020-08-10T07:24:59.531782465Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubAck: 100,
+2020-08-10T07:24:59.531799668Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubRec: 0,
+2020-08-10T07:24:59.531816695Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubRel: 0,
+2020-08-10T07:24:59.531834215Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubComp: 0,
+2020-08-10T07:24:59.531851765Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |      }
+2020-08-10T07:25:29.455733140Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:25:29Z INFO  dt_client_bytes] NotificationCounter {
+2020-08-10T07:25:29.455840279Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          Pub: 100,
+2020-08-10T07:25:29.455862782Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubAck: 100,
+2020-08-10T07:25:29.455881665Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubRec: 0,
+2020-08-10T07:25:29.455900175Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubRel: 0,
+2020-08-10T07:25:29.455918012Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubComp: 0,
+2020-08-10T07:25:29.455936369Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |      }
+2020-08-10T07:25:29.562998049Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:25:29Z INFO  dt_client_bytes] NotificationCounter {
+2020-08-10T07:25:29.563098107Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          Pub: 100,
+2020-08-10T07:25:29.563122024Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubAck: 100,
+2020-08-10T07:25:29.563139194Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubRec: 0,
+2020-08-10T07:25:29.563155884Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubRel: 0,
+2020-08-10T07:25:29.563172740Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubComp: 0,
+2020-08-10T07:25:29.563189820Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |      }
+2020-08-10T07:25:59.456979561Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:25:59Z INFO  dt_client_bytes] NotificationCounter {
+2020-08-10T07:25:59.457075625Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          Pub: 100,
+2020-08-10T07:25:59.457097129Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubAck: 100,
+2020-08-10T07:25:59.457115096Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubRec: 0,
+2020-08-10T07:25:59.457132662Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubRel: 0,
+2020-08-10T07:25:59.457149919Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubComp: 0,
+2020-08-10T07:25:59.457166806Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |      }
+2020-08-10T07:25:59.562574338Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:25:59Z INFO  dt_client_bytes] NotificationCounter {
+2020-08-10T07:25:59.562644336Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          Pub: 100,
+2020-08-10T07:25:59.562666809Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubAck: 100,
+2020-08-10T07:25:59.562706066Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubRec: 0,
+2020-08-10T07:25:59.562724906Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubRel: 0,
+2020-08-10T07:25:59.562751553Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubComp: 0,
+2020-08-10T07:25:59.562769776Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |      }
+2020-08-10T07:26:29.458097333Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:26:29Z INFO  dt_client_bytes] NotificationCounter {
+2020-08-10T07:26:29.458242170Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          Pub: 100,
+2020-08-10T07:26:29.458267768Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubAck: 100,
+2020-08-10T07:26:29.458286001Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubRec: 0,
+2020-08-10T07:26:29.458304228Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubRel: 0,
+2020-08-10T07:26:29.458322011Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubComp: 0,
+2020-08-10T07:26:29.458339738Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |      }
+2020-08-10T07:26:29.574195539Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |  [2020-08-10T07:26:29Z INFO  dt_client_bytes] NotificationCounter {
+2020-08-10T07:26:29.574265196Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          Pub: 100,
+2020-08-10T07:26:29.574288409Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubAck: 100,
+2020-08-10T07:26:29.574306723Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubRec: 0,
+2020-08-10T07:26:29.574324803Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubRel: 0,
+2020-08-10T07:26:29.574342307Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |          PubComp: 0,
+2020-08-10T07:26:29.574360181Z messages_client.1.z9iocx421iz9@fpknebel-fog2    |      }
