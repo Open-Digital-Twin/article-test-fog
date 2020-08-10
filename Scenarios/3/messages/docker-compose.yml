@@ -40,32 +40,30 @@ services:
     deploy:
       placement:    
         constraints:
-          - node.labels.name==fog
+          - node.labels.name==fog1
     command: dt-instance
   mqtt-broker:
     image: "eclipse-mosquitto:1.6.10"
     networks:
       - default
     volumes:
-      - ./mosquitto.conf:/mosquitto/config/mosquitto.conf
-      - ./mosquitto/log:/mosquitto/log
-      - ./mosquitto/data:/mosquitto/data
+      - /mosquitto.conf:/mosquitto/config/mosquitto.conf
+      - /mosquitto/log:/mosquitto/log
+      - /mosquitto/data:/mosquitto/data
     restart: always
     deploy:
       placement:
         constraints:
-          - node.labels.name==fog
+          - node.labels.name==fog1
   scylla-db:
     image: scylladb/scylla
     networks:
       - default
     volumes:
-      - ./../../../../dt-instance/shared/db:/db
-      - ./../../../../dt-instance/shared/dbinit.sh:/dbinit.sh
       - /var/lib/scylla:/var/lib/scylla
     deploy:
       placement:
         constraints:
-         - node.labels.name==fog
+         - node.labels.name==fog1
 networks:
   default:
