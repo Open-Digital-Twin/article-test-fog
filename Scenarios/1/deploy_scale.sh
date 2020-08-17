@@ -1,13 +1,3 @@
-# Reset Twin, client and broker.
-docker service scale messages_twin=0 messages_client=0 messages_mqtt-broker=0 &&
-docker service scale messages_mqtt-broker=1 &&
-docker service scale messages_twin=1
-
-# Test with one client
-docker service scale messages_client=1
-
-# with three clients
-docker service scale messages_client=3
-
-# with five clients
-docker service scale messages_client=5
+version https://git-lfs.github.com/spec/v1
+oid sha256:62f212963a34ac4fd9887025b30cabfad0514223c96458fdcad1f8d8c2efc0f4
+size 382

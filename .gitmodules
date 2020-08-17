@@ -1,6 +1,3 @@
-[submodule "dt-instance"]
-	path = dt-instance
-	url = git@github.com:Open-Digital-Twin/dt-instance.git
-[submodule "dt-client-bytes"]
-	path = dt-client-bytes
-	url = git@github.com:Open-Digital-Twin/dt-client-bytes
+version https://git-lfs.github.com/spec/v1
+oid sha256:8a3b357824a4d2cf155411c556565367fd2529b2533d634009a9cafb302bd14e
+size 212
