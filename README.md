@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:14c4557c17ba4fcef4c998416229c6277e059e1e7592484446c05690316cc549
-size 287
+# dt-tests
+
+Tests of ODT implementation for article "...".
+
+Twin implementations are defined as submodules and each scenario is included in the `Scenarios` directory.
+
+## Swarm Members
+
+### Manager
+- master `192.168.122.31`
+
+### Workers
+- fog1 `192.168.122.220`
+- fog2 `192.168.122.198`
