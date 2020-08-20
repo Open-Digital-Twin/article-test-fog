@@ -1,0 +1,47 @@
+docker stack deploy messages --compose-file docker-compose.yml
+
+docker service scale messages_twin=0
+
+alias dt-savelogs='~/dt-tests/save-container-logs.sh'
+alias dt-parselogs='~/dt-tests/logs-parse.py'
+
+dt-parselogs client-compile.log message-times.log \
+    twin.log
+    client1.log client2.log client3.log
+
+# Reset Twin, client and broker.
+docker service scale messages_twin=0 messages_client=0 messages_mqtt-broker=0 &&
+docker service scale messages_mqtt-broker=1 &&
+docker service scale messages_twin=1 &&
+docker service scale messages_client=1
+
+# Test with one client
+docker service scale messages_twin=0 messages_client=0 messages_mqtt-broker=0 &&
+docker service scale messages_mqtt-broker=1 &&
+docker service scale messages_twin=1 &&
+docker service scale messages_client=1
+
+# with three clients
+docker service scale messages_twin=0 messages_client=0 messages_mqtt-broker=0 &&
+docker service scale messages_mqtt-broker=1 &&
+docker service scale messages_twin=1 &&
+docker service scale messages_client=3
+
+# with five clients
+docker service scale messages_twin=0 messages_client=0 messages_mqtt-broker=0 &&
+docker service scale messages_mqtt-broker=1 &&
+docker service scale messages_twin=1 &&
+docker service scale messages_client=5
+
+
+docker stack deploy messages --compose-file docker-compose.yml
+
+dt-savelogs && cp ../docker-compose.yml . && cp ../mosquitto.conf .
+dt-savelogs
+
+
+
+
+1/messages/10000-1c
+1/messages/10000-3c
+
